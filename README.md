@@ -1,12 +1,12 @@
-## Krafcool - NextGen Streetwear E-Commerce Platform
+# Krafcool - NextGen Streetwear E-Commerce Platform
 
-# 🚀 Introduction
+## 🚀 Introduction
 
 Krafcool is an advanced streetwear e-commerce platform that leverages Augmented Reality (AR), WebRTC, and 3D View Imaging to provide an immersive shopping experience. The platform is built with modern web technologies, ensuring a seamless and engaging user experience for fashion enthusiasts.
 
-# 🌟 Features
+## 🌟 Features
 
-🛍️ E-Commerce Functionality
+## 🛍️ E-Commerce Functionality
 
 Product Listings with categories and search
 
@@ -14,7 +14,7 @@ Cart & Checkout with multiple payment options
 
 Order Tracking & Management
 
-🎨 Next-Gen Shopping Experience
+## 🎨 Next-Gen Shopping Experience
 
 Augmented Reality (AR) to try on clothing virtually
 
@@ -22,13 +22,13 @@ Augmented Reality (AR) to try on clothing virtually
 
 WebRTC-powered real-time support chat
 
-🔐 Security & Authentication
+## 🔐 Security & Authentication
 
 JWT-based authentication for secure user sessions
 
 OAuth & social login support
 
-🔄 State Management & API Integration
+## 🔄 State Management & API Integration
 
 Redux for global state management
 
